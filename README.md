@@ -170,8 +170,8 @@ LANGGRAPH_PORT=8081
 ### Programmatic Configuration
 
 ```python
-from open_deep_research.enhanced_graph import create_enhanced_graph
-from open_deep_research.configuration import Configuration
+from othertales.deepresearch.enhanced_graph import create_enhanced_graph
+from othertales.deepresearch.configuration import Configuration
 
 # Configure the system
 config = Configuration(
@@ -228,7 +228,7 @@ Available search tools:
 * [Linkup API](https://www.linkup.so/) - General web search
 * [DuckDuckGo API](https://duckduckgo.com/) - General web search
 * [Google Search API/Scrapper](https://google.com/)
-* [Direct URL Crawling](https://github.com/langchain-ai/open_deep_research) - Extract content from specific URLs
+* [Direct URL Crawling](https://github.com/langchain-ai/othertales.deepresearch) - Extract content from specific URLs
 
 ## 🗄️ Knowledge Storage
 
