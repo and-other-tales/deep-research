@@ -1,6 +1,5 @@
 # Deep Research w/ Deeper Verification
 
-othertales Deep Research is an experimental, fully open-source research assistant that automates deep research and produces comprehensive reports on any topic. It features both a workflow and a multi-agent architecture, with examples enhanced knowledge storage and verification capabilities for accounting and legal domains, used in our R&D Example Workflows for Copyright Legal & Business Affairs Solutions and Accounting.
 
 ## 🌟 Key Features
 
@@ -365,3 +364,5 @@ The enhanced system follows this workflow:
 ## 📄 License
 
 MIT.
+
+Copyright © 2025 Adventures of the Persistently Impaired (...and Other Tales) Limited of 85 Great Portland Street, London W1W 7LT under exclusive license to Other Tales LLC of 8 The Green, Suite B, Dover DE 19901 United States.
